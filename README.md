@@ -7,4 +7,4 @@ A prime number is a natural number greater than 1 that is not a product of two s
 ## What is factor 
 The factor of a number is a number that divides the given number completely without any remainder. Division and multiplication are the operations that are used in finding the factors of a number.
 
-### We have used MODULUS operator in the code for finding factors. 
+### We have used FLOOR DIVISION operator in the code for finding factors. 
